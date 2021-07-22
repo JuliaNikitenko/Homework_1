@@ -1,0 +1,1 @@
+cat 2.log | tail -n 3 > 3.log

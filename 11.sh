@@ -1,0 +1,1 @@
+ls -la /etc | sort -k9 -d | grep rwx > 2.log

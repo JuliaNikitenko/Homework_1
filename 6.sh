@@ -1,0 +1,1 @@
+mkdir -p ./one/two/ | cp -a /home/juliya/Homework_2/test* /home/juliya/Homework_2/one/two/
